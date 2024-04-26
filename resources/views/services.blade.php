@@ -1,4 +1,4 @@
-{{-- Include Main File --}}
+{{-- Include Master File --}}
 
 @extends('layout.master')  
 
