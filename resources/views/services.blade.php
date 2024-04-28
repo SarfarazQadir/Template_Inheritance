@@ -2,7 +2,7 @@
 
 @extends('layout.master')  
 
-{{-- add yield section --}}
+{{-- adding yield section --}}
 @section('services')
 <!-- ======= Featured Services Section ======= -->
 <section id="featured-services" class="featured-services">
